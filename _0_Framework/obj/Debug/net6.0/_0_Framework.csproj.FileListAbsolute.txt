@@ -1,0 +1,12 @@
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\bin\Debug\net6.0\_0_Framework.deps.json
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\bin\Debug\net6.0\_0_Framework.dll
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\bin\Debug\net6.0\_0_Framework.pdb
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\obj\Debug\net6.0\_0_Framework.csproj.AssemblyReference.cache
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\obj\Debug\net6.0\_0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\obj\Debug\net6.0\_0_Framework.AssemblyInfoInputs.cache
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\obj\Debug\net6.0\_0_Framework.AssemblyInfo.cs
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\obj\Debug\net6.0\_0_Framework.csproj.CoreCompileInputs.cache
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\obj\Debug\net6.0\_0_Framework.dll
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\obj\Debug\net6.0\refint\_0_Framework.dll
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\obj\Debug\net6.0\_0_Framework.pdb
+C:\Users\Wee App115\source\repos\ShopManagement\_0_Framework\obj\Debug\net6.0\ref\_0_Framework.dll

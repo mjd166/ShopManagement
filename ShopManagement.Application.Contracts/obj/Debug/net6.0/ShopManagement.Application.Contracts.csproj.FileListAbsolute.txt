@@ -1,0 +1,17 @@
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.deps.json
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.dll
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Application.Contracts.pdb
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Domain.dll
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\bin\Debug\net6.0\_0_Framework.dll
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\bin\Debug\net6.0\ShopManagement.Domain.pdb
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\bin\Debug\net6.0\_0_Framework.pdb
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.AssemblyInfo.cs
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.csproj.CopyComplete
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.dll
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\refint\ShopManagement.Application.Contracts.dll
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\ShopManagement.Application.Contracts.pdb
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Application.Contracts\obj\Debug\net6.0\ref\ShopManagement.Application.Contracts.dll

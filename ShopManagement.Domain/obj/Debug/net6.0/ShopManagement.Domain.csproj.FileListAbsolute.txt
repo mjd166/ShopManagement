@@ -1,0 +1,15 @@
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.deps.json
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.dll
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\bin\Debug\net6.0\ShopManagement.Domain.pdb
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\bin\Debug\net6.0\_0_Framework.dll
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\bin\Debug\net6.0\_0_Framework.pdb
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.AssemblyInfo.cs
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.csproj.CopyComplete
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.dll
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\refint\ShopManagement.Domain.dll
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\ShopManagement.Domain.pdb
+C:\Users\Wee App115\source\repos\ShopManagement\ShopManagement.Domain\obj\Debug\net6.0\ref\ShopManagement.Domain.dll
